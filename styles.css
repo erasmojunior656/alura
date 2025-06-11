@@ -6,4 +6,9 @@ body {
 header{
     border-bottom: solid 5px red;
     padding: 20px;
+    font-size: xx-large;
+    color: red;
+}
+section{
+    background: ;
 }
