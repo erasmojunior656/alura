@@ -2,6 +2,7 @@ body {
     background: black;
     color: white;
     margin: 0px;
+    font-family: "Michroma", sans-serif;
 }
 header{
     border-bottom: solid 5px red;
@@ -10,5 +11,18 @@ header{
     color: red;
 }
 section{
-    background: ;
+    background: rgb(28,28,28);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.div1{
+    margin-right: 5%;
+}
+h1{
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
 }
